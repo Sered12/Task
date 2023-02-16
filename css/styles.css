@@ -1,0 +1,25 @@
+body {
+    background-color: lightgray;
+}
+
+p {
+    font-size: large;
+    word-spacing: normal;
+    color: grey;
+}
+
+.bluezone {
+    color: darkred;
+}
+
+.line {
+    display: inline;
+}
+
+li {
+    margin: 5px;
+}
+
+#make {
+    margin-left: 0;
+}
